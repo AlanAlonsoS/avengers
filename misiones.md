@@ -1,2 +1,6 @@
-#_Misiones
-inestigar a domm
+# Misiones
+
+* inestigar a doom
+* capturar a red skull
+
+
